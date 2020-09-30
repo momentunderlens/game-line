@@ -1,2 +1,2 @@
 # game-line
-## reprository
+# game code repository
